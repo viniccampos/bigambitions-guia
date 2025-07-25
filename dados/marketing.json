@@ -1,0 +1,92 @@
+{
+  "marketing": {
+    "titulo": "Marketing +/- 100%",
+    "niveis": [
+      {
+        "nivel": 1,
+        "capacidade_clientes": {
+          "varejo": 15,
+          "escritorio": 4
+        },
+        "campanhas_disponiveis": {
+          "campanha_pequena_internet": false,
+          "campanha_media_internet": false,
+          "campanha_grande_internet": false,
+          "outdoor_pequeno": true,
+          "outdoor_medio": false,
+          "outdoor_grande": false
+        },
+        "preco": 500,
+        "eficacia_marketing_percentual": 100
+      },
+      {
+        "nivel": 2,
+        "capacidade_clientes": {
+          "varejo": 30,
+          "escritorio": 8
+        },
+        "campanhas_disponiveis": {
+          "campanha_pequena_internet": true,
+          "campanha_media_internet": true,
+          "campanha_grande_internet": true,
+          "outdoor_pequeno": true,
+          "outdoor_medio": false,
+          "outdoor_grande": false
+        },
+        "preco": 1350,
+        "eficacia_marketing_percentual": 98
+      },
+      {
+        "nivel": 3,
+        "capacidade_clientes": {
+          "varejo": 40,
+          "escritorio": 10
+        },
+        "campanhas_disponiveis": {
+          "campanha_pequena_internet": false,
+          "campanha_media_internet": true,
+          "campanha_grande_internet": false,
+          "outdoor_pequeno": false,
+          "outdoor_medio": true,
+          "outdoor_grande": false
+        },
+        "preco": 2750,
+        "eficacia_marketing_percentual": 102
+      },
+      {
+        "nivel": 4,
+        "capacidade_clientes": {
+          "varejo": null,
+          "escritorio": 50
+        },
+        "campanhas_disponiveis": {
+          "campanha_pequena_internet": true,
+          "campanha_media_internet": true,
+          "campanha_grande_internet": false,
+          "outdoor_pequeno": false,
+          "outdoor_medio": false,
+          "outdoor_grande": true
+        },
+        "preco": 6350,
+        "eficacia_marketing_percentual": 100
+      },
+      {
+        "nivel": 5,
+        "capacidade_clientes": {
+          "varejo": 75,
+          "escritorio": null
+        },
+        "campanhas_disponiveis": {
+          "campanha_pequena_internet": true,
+          "campanha_media_internet": true,
+          "campanha_grande_internet": false,
+          "outdoor_pequeno": true,
+          "outdoor_medio": true,
+          "outdoor_grande": true
+        },
+        "preco": 9350,
+        "eficacia_marketing_percentual": 101
+      }
+    ]
+  }
+}
